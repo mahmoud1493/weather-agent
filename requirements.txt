@@ -1,0 +1,7 @@
+streamlit
+streamlit-js-eval
+langchain
+langchain-google-genai
+langchain-groq
+python-dotenv
+requests
